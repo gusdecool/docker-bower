@@ -1,0 +1,42 @@
+{
+  "name": "docker-bower",
+  "homepage": "https://github.com/gusdecool/docker-bower",
+  "authors": [
+    "Budi Arsana <gusdecool@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^4.7.0",
+    "bootstrap": "3.3.7",
+    "angular": "1.3.0",
+    "angular-sanitize": "1.2.25",
+    "angular-messages": "1.3.0",
+    "semantic": "~1.11.4",
+    "angular-filter": "~0.4.7",
+    "angular-rangeslider": "~0.0.14",
+    "checklist-model": "~0.11.0",
+    "moment": "~2.10.3",
+    "datetimepicker": "~2.4.1",
+    "ngInfiniteScroll": "~1.0.0",
+    "ng-dialog": "~0.6.3",
+    "angular-tooltips": "1.0.7",
+    "jquery.easing": "jquery-easing-original#~1.4.1",
+    "jquery": "2.2.4",
+    "jquery-ui": "1.12.1",
+    "bootstrap-sass": "3.3.7",
+    "font-awesome-sass": "^4.7.0",
+    "owl.carousel": "owl-carousel2#^2.2.1"
+  },
+  "resolutions": {
+    "angular": "1.3.0"
+  }
+}
